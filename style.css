@@ -1,0 +1,24 @@
+.ui.borderless.topmenu.menu {
+  padding-top: 16px;
+  height: 80px;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.menu.container {
+  top-margin: 18px;
+  left-margin: 200px;
+  right-margin: 200px;
+  height: 62px;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.right.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.back.container {
+  height: 554px;
+}
